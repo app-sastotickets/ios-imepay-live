@@ -13,7 +13,7 @@ Minimum SDK Requirement: IOS 14
 
 2. Go to File > Add Packages...
 
-3. In the field Enter package repository URL, enter "https://github.com/app-sastotickets/ios-live.git"
+3. In the field Enter package repository URL, enter "https://github.com/app-sastotickets/ios-globalime-live.git"
 
 4. Pick the latest version and Add Package.
 
