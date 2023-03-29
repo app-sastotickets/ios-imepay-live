@@ -38,11 +38,11 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		Ds93LNbpUsqqDf6HjG9EXh10/JE=
+		pzBz5//7Ezocyo5JudDLhSmSW7c=
 		</data>
 		<key>Modules/SastoTickets.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		hV9lrJPejsQ/ixjg03VEXhwOfVg=
+		y4btQa9WmGPtow7eWNjYFbuAaHQ=
 		</data>
 		<key>Modules/SastoTickets.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -58,11 +58,11 @@
 		</data>
 		<key>Modules/SastoTickets.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		/3ilixzjR1PqnQXA9wbn+WWPbJI=
+		Dvu1zOP3S6OuUL1ZgX2HImhVwYA=
 		</data>
 		<key>Modules/SastoTickets.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		hV9lrJPejsQ/ixjg03VEXhwOfVg=
+		y4btQa9WmGPtow7eWNjYFbuAaHQ=
 		</data>
 		<key>Modules/SastoTickets.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -78,7 +78,7 @@
 		</data>
 		<key>Modules/SastoTickets.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		+50mW1dTKapNUJEv4S6zkHawq2k=
+		uq+yg+jmYghagdzz+4BY90inaRs=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -147,7 +147,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			PuTLo+duc3G7pP1trUKlej5wPKyfc/QOchd/OyzVBUY=
+			MJ6vgfMwsx8Dos0rbFN7z8DTXlhTGk86Ai5ee/RDh08=
 			</data>
 		</dict>
 		<key>Modules/SastoTickets.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -175,14 +175,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			zWf3wD2GQNRIWLTQU+FGEaeZHdY6jUlS38IfCVA8Yew=
+			qgxlrQftFsA8rQjtCOrYomamjMcUeGBKy24LQo4QiLU=
 			</data>
 		</dict>
 		<key>Modules/SastoTickets.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			PuTLo+duc3G7pP1trUKlej5wPKyfc/QOchd/OyzVBUY=
+			MJ6vgfMwsx8Dos0rbFN7z8DTXlhTGk86Ai5ee/RDh08=
 			</data>
 		</dict>
 		<key>Modules/SastoTickets.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
@@ -210,7 +210,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Nou/U3tqmVtKMq5q5Bp9Qa58DFhjV+Er06FBQaadOM0=
+			50EKfarR8O+M8JAuZrYebS7QNQ59F2hO2deAPI6md9E=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
