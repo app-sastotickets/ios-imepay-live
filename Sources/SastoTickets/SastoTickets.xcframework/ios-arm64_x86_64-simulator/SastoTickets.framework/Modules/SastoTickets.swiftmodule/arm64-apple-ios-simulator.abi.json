@@ -3548,7 +3548,7 @@
       "kind": "StringLiteral",
       "offset": 182,
       "length": 8,
-      "value": "\"0.0.30\""
+      "value": "\"0.0.31\""
     },
     {
       "filePath": "\/Users\/skybase\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Utils\/Constants.swift",
