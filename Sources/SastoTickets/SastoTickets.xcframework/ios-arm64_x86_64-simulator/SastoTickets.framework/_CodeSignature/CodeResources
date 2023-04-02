@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		BSDHHqjpDxjux8EKHRfTG5N3N/U=
+		lGxL8Kpwx3FGKsyWI7S5U3k0dOk=
 		</data>
 		<key>FiraSans-Bold.ttf</key>
 		<data>
@@ -38,11 +38,11 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		pzBz5//7Ezocyo5JudDLhSmSW7c=
+		6pRUZDNdeD2zccmqsALu00bUnwY=
 		</data>
 		<key>Modules/SastoTickets.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		kH539cLhAxp/aO1aJy1zwoudgaE=
+		losuZpUbs4Lxut8drFZ8e+hsnfk=
 		</data>
 		<key>Modules/SastoTickets.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -58,11 +58,11 @@
 		</data>
 		<key>Modules/SastoTickets.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		XbdyGuVwK8C3pwJ9h9R2ZBQgXT4=
+		bbEeKAvdAzvw8gKWEtdk/l1yuKI=
 		</data>
 		<key>Modules/SastoTickets.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		kH539cLhAxp/aO1aJy1zwoudgaE=
+		losuZpUbs4Lxut8drFZ8e+hsnfk=
 		</data>
 		<key>Modules/SastoTickets.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -78,7 +78,7 @@
 		</data>
 		<key>Modules/SastoTickets.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		HxUq1gr0mxFvdqGPZVZWIGAOSFU=
+		QhL4zsYKDF5NpedyoxXSGxJ+3BY=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -91,7 +91,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			rRB9MrfimDWKEZJqsdi74V7LfyuhuNNFmu36pN4LQi4=
+			iRy8Wxxrb3tK62ZGW8EKcph8n8SFoaoHNGaya6Fyjtk=
 			</data>
 		</dict>
 		<key>FiraSans-Bold.ttf</key>
@@ -147,7 +147,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			2Q2EHhI9wHfFtTOHlpF7WzhtoGsaK3XblOkOylnxrYc=
+			xRExLOLPKOLqRYfXxO0LnBROT5l4seDMPv99AbEiM04=
 			</data>
 		</dict>
 		<key>Modules/SastoTickets.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -175,14 +175,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			R3JCSA8yH9iIOPurYsTvfVcwBg7DY0b/M1z0jI88siw=
+			XS7YV9rR+QAbADnAhvcWihO9XTv/Yk52YKru7JWO5Gs=
 			</data>
 		</dict>
 		<key>Modules/SastoTickets.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			2Q2EHhI9wHfFtTOHlpF7WzhtoGsaK3XblOkOylnxrYc=
+			xRExLOLPKOLqRYfXxO0LnBROT5l4seDMPv99AbEiM04=
 			</data>
 		</dict>
 		<key>Modules/SastoTickets.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
@@ -210,7 +210,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			OJYAuekmhOzzU4HrxYIW7yz5imWFP2mdipWH9xYkVxY=
+			POccrdNe8/fShwhXhg6dSnH5ZObj35X9eHIXb6852ug=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
