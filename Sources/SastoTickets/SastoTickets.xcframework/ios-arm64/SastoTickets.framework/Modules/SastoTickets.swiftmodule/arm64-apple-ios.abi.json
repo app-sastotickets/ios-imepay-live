@@ -488,7 +488,7 @@
           {
             "kind": "Constructor",
             "name": "init",
-            "printedName": "init(clientId:clientSecret:userType:walletBalance:phone:callback:)",
+            "printedName": "init(clientId:clientSecret:userType:walletBalance:phone:environment:callback:)",
             "children": [
               {
                 "kind": "TypeNominal",
@@ -532,6 +532,20 @@
                     "name": "Double",
                     "printedName": "Swift.Double",
                     "usr": "s:Sd"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
                   }
                 ],
                 "usr": "s:Sq"
@@ -612,8 +626,8 @@
               }
             ],
             "declKind": "Constructor",
-            "usr": "s:12SastoTickets16SastoticketsViewV8clientId0E6Secret8userType13walletBalance5phone8callbackACSS_S2SSgSdSgAJySDySSypGSg_s5Error_pSgtctcfc",
-            "mangledName": "$s12SastoTickets16SastoticketsViewV8clientId0E6Secret8userType13walletBalance5phone8callbackACSS_S2SSgSdSgAJySDySSypGSg_s5Error_pSgtctcfc",
+            "usr": "s:12SastoTickets16SastoticketsViewV8clientId0E6Secret8userType13walletBalance5phone11environment8callbackACSS_S2SSgSdSgA2KySDySSypGSg_s5Error_pSgtctcfc",
+            "mangledName": "$s12SastoTickets16SastoticketsViewV8clientId0E6Secret8userType13walletBalance5phone11environment8callbackACSS_S2SSgSdSgA2KySDySSypGSg_s5Error_pSgtctcfc",
             "moduleName": "SastoTickets",
             "declAttributes": [
               "AccessControl"
@@ -14409,28 +14423,28 @@
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/SastoTickets.swift",
       "kind": "BooleanLiteral",
-      "offset": 1548,
+      "offset": 1645,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/SastoTickets.swift",
       "kind": "StringLiteral",
-      "offset": 2868,
+      "offset": 3010,
       "length": 6,
       "value": "\"exit\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/SastoTickets.swift",
       "kind": "BooleanLiteral",
-      "offset": 2888,
+      "offset": 3030,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/SastoTickets.swift",
       "kind": "StringLiteral",
-      "offset": 4173,
+      "offset": 4412,
       "length": 2,
       "value": "\"\""
     },
@@ -22811,7 +22825,7 @@
       "kind": "StringLiteral",
       "offset": 182,
       "length": 8,
-      "value": "\"0.0.33\""
+      "value": "\"0.0.34\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Utils\/Constants.swift",
@@ -22830,959 +22844,973 @@
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Utils\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 463,
+      "offset": 399,
+      "length": 38,
+      "value": "\"https:\/\/2019dev-api.sastotickets.com\""
+    },
+    {
+      "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Utils\/Constants.swift",
+      "kind": "StringLiteral",
+      "offset": 470,
       "length": 30,
       "value": "\"https:\/\/api.sastotickets.com\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Utils\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 522,
+      "offset": 571,
+      "length": 6,
+      "value": "\"test\""
+    },
+    {
+      "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Utils\/Constants.swift",
+      "kind": "StringLiteral",
+      "offset": 632,
       "length": 13,
       "value": "\"\/api\/b2b\/v1\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Utils\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 572,
+      "offset": 682,
       "length": 30,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Utils\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 582,
+      "offset": 692,
       "length": 1,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Utils\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 591,
+      "offset": 701,
       "length": 1,
       "value": "\"\/get-token\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Utils\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 635,
+      "offset": 745,
       "length": 29,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Utils\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 645,
+      "offset": 755,
       "length": 1,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Utils\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 654,
+      "offset": 764,
       "length": 1,
       "value": "\"\/airports\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Utils\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 704,
+      "offset": 814,
       "length": 39,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Utils\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 714,
+      "offset": 824,
       "length": 1,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Utils\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 723,
+      "offset": 833,
       "length": 1,
       "value": "\"\/search-airports?q=\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Utils\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 781,
+      "offset": 891,
       "length": 33,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Utils\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 791,
+      "offset": 901,
       "length": 1,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Utils\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 800,
+      "offset": 910,
       "length": 1,
       "value": "\"\/destinations\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Utils\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 852,
+      "offset": 962,
       "length": 35,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Utils\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 862,
+      "offset": 972,
       "length": 1,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Utils\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 871,
+      "offset": 981,
       "length": 1,
       "value": "\"\/search-flights\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Utils\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 924,
+      "offset": 1034,
       "length": 33,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Utils\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 934,
+      "offset": 1044,
       "length": 1,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Utils\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 943,
+      "offset": 1053,
       "length": 1,
       "value": "\"\/issue-ticket\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Utils\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 1001,
+      "offset": 1111,
       "length": 33,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Utils\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 1011,
+      "offset": 1121,
       "length": 1,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Utils\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 1020,
+      "offset": 1130,
       "length": 1,
       "value": "\"\/availability\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Utils\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 1073,
+      "offset": 1183,
       "length": 32,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Utils\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 1083,
+      "offset": 1193,
       "length": 1,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Utils\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 1092,
+      "offset": 1202,
       "length": 1,
       "value": "\"\/reservation\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Utils\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 1141,
+      "offset": 1251,
       "length": 30,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Utils\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 1151,
+      "offset": 1261,
       "length": 1,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Utils\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 1160,
+      "offset": 1270,
       "length": 1,
       "value": "\"\/countries\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Utils\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 1212,
+      "offset": 1322,
       "length": 40,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Utils\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 1222,
+      "offset": 1332,
       "length": 1,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Utils\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 1231,
+      "offset": 1341,
       "length": 1,
       "value": "\"\/search-countries?q=\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Utils\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 1287,
+      "offset": 1397,
       "length": 30,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Utils\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 1297,
+      "offset": 1407,
       "length": 1,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Utils\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 1306,
+      "offset": 1416,
       "length": 1,
       "value": "\"\/documents\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Utils\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 1357,
+      "offset": 1467,
       "length": 36,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Utils\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 1367,
+      "offset": 1477,
       "length": 1,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Utils\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 1376,
+      "offset": 1486,
       "length": 1,
       "value": "\"\/payment-details\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Utils\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 1442,
+      "offset": 1552,
       "length": 46,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Utils\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 1452,
+      "offset": 1562,
       "length": 1,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Utils\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 1461,
+      "offset": 1571,
       "length": 1,
       "value": "\"\/namastepay-generate-order\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Utils\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 1536,
+      "offset": 1646,
       "length": 45,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Utils\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 1546,
+      "offset": 1656,
       "length": 1,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Utils\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 1555,
+      "offset": 1665,
       "length": 1,
       "value": "\"\/namastepay-confirm-order\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Utils\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 1621,
+      "offset": 1731,
       "length": 36,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Utils\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 1631,
+      "offset": 1741,
       "length": 1,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Utils\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 1640,
+      "offset": 1750,
       "length": 1,
       "value": "\"\/download-ticket\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Utils\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 1695,
+      "offset": 1805,
       "length": 35,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Utils\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 1705,
+      "offset": 1815,
       "length": 1,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Utils\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 1714,
+      "offset": 1824,
       "length": 1,
       "value": "\"\/verify-flights\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Utils\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 1799,
+      "offset": 1909,
       "length": 18,
       "value": "\"FiraSans-Regular\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Utils\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 1852,
+      "offset": 1962,
       "length": 15,
       "value": "\"FiraSans-Bold\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Utils\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 1906,
+      "offset": 2016,
       "length": 19,
       "value": "\"FiraSans-SemiBold\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Utils\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 1962,
+      "offset": 2072,
       "length": 17,
       "value": "\"FiraSans-Medium\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Utils\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 2015,
+      "offset": 2125,
       "length": 16,
       "value": "\"FiraSans-Light\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Utils\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 2104,
+      "offset": 2214,
       "length": 14,
       "value": "\"primaryColor\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Utils\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 2203,
+      "offset": 2313,
       "length": 16,
       "value": "\"secondaryColor\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Utils\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 2301,
+      "offset": 2411,
       "length": 13,
       "value": "\"canvasColor\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Utils\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 2400,
+      "offset": 2510,
       "length": 17,
       "value": "\"formBorderColor\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Utils\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 2507,
+      "offset": 2617,
       "length": 21,
       "value": "\"formBackgroundColor\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Utils\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 2615,
+      "offset": 2725,
       "length": 18,
       "value": "\"placeHolderColor\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Utils\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 2723,
+      "offset": 2833,
       "length": 20,
       "value": "\"calenderRangeColor\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Utils\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 2827,
+      "offset": 2937,
       "length": 14,
       "value": "\"segmentColor\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Utils\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 2933,
+      "offset": 3043,
       "length": 23,
       "value": "\"filterBackgroundColor\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Utils\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 3037,
+      "offset": 3147,
       "length": 12,
       "value": "\"blackColor\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Utils\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 3130,
+      "offset": 3240,
       "length": 12,
       "value": "\"whiteColor\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Utils\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 3231,
+      "offset": 3341,
       "length": 20,
       "value": "\"whiteDarkGreyColor\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Utils\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 3343,
+      "offset": 3453,
       "length": 23,
       "value": "\"canvasFormBorderColor\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Utils\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 3477,
+      "offset": 3587,
       "length": 17,
       "value": "\"cloudBackground\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Utils\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 3521,
+      "offset": 3631,
       "length": 6,
       "value": "\"logo\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Utils\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 3557,
+      "offset": 3667,
       "length": 9,
       "value": "\"airline\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Utils\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 3598,
+      "offset": 3708,
       "length": 11,
       "value": "\"atobplane\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Utils\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 3640,
+      "offset": 3750,
       "length": 10,
       "value": "\"atobline\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Utils\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 3679,
+      "offset": 3789,
       "length": 8,
       "value": "\"ticket\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Utils\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 3722,
+      "offset": 3832,
       "length": 14,
       "value": "\"scanDocument\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Utils\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 3769,
+      "offset": 3879,
       "length": 12,
       "value": "\"ticketLine\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Utils\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 3812,
+      "offset": 3922,
       "length": 10,
       "value": "\"noFlight\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Utils\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 3855,
+      "offset": 3965,
       "length": 12,
       "value": "\"noInternet\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Utils\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 3904,
+      "offset": 4014,
       "length": 16,
       "value": "\"sessionExpired\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Utils\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 3960,
+      "offset": 4070,
       "length": 19,
       "value": "\"segmentDottedLine\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Utils\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 4021,
+      "offset": 4131,
       "length": 21,
       "value": "\"segmentStraightLine\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Utils\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 4077,
+      "offset": 4187,
       "length": 14,
       "value": "\"segmentPlane\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Utils\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 4156,
+      "offset": 4266,
       "length": 14,
       "value": "\"calendarIcon\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Utils\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 4211,
+      "offset": 4321,
       "length": 20,
       "value": "\"departurePlaneIcon\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Utils\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 4275,
+      "offset": 4385,
       "length": 23,
       "value": "\"departurePlaneIconTwo\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Utils\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 4330,
+      "offset": 4440,
       "length": 11,
       "value": "\"globeIcon\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Utils\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 4378,
+      "offset": 4488,
       "length": 16,
       "value": "\"paperPlaneIcon\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Utils\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 4426,
+      "offset": 4536,
       "length": 11,
       "value": "\"phoneIcon\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Utils\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 4469,
+      "offset": 4579,
       "length": 11,
       "value": "\"planeIcon\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Utils\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 4517,
+      "offset": 4627,
       "length": 16,
       "value": "\"rotarPhoneIcon\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Utils\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 4564,
+      "offset": 4674,
       "length": 10,
       "value": "\"userIcon\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Utils\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 4606,
+      "offset": 4716,
       "length": 11,
       "value": "\"viberIcon\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Utils\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 4652,
+      "offset": 4762,
       "length": 14,
       "value": "\"whatsappIcon\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Utils\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 4700,
+      "offset": 4810,
       "length": 13,
       "value": "\"shuffelIcon\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Utils\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 4745,
+      "offset": 4855,
       "length": 11,
       "value": "\"crossIcon\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Utils\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 4789,
+      "offset": 4899,
       "length": 12,
       "value": "\"searchIcon\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Utils\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 4832,
+      "offset": 4942,
       "length": 10,
       "value": "\"dashIcon\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Utils\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 4878,
+      "offset": 4988,
       "length": 15,
       "value": "\"incrementIcon\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Utils\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 4929,
+      "offset": 5039,
       "length": 15,
       "value": "\"decrementIcon\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Utils\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 4980,
+      "offset": 5090,
       "length": 15,
       "value": "\"departureIcon\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Utils\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 5028,
+      "offset": 5138,
       "length": 12,
       "value": "\"returnIcon\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Utils\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 5095,
+      "offset": 5205,
       "length": 16,
       "value": "\"editIconHolder\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Utils\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 5142,
+      "offset": 5252,
       "length": 10,
       "value": "\"editIcon\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Utils\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 5206,
+      "offset": 5316,
       "length": 15,
       "value": "\"arrowLeftIcon\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Utils\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 5278,
+      "offset": 5388,
       "length": 18,
       "value": "\"filterIconHolder\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Utils\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 5329,
+      "offset": 5439,
       "length": 12,
       "value": "\"filterIcon\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Utils\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 5384,
+      "offset": 5494,
       "length": 13,
       "value": "\"scrollToTop\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Utils\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 5432,
+      "offset": 5542,
       "length": 14,
       "value": "\"brifcaseIcon\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Utils\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 5482,
+      "offset": 5592,
       "length": 15,
       "value": "\"handcarryIcon\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Utils\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 5538,
+      "offset": 5648,
       "length": 20,
       "value": "\"departureBlackIcon\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Utils\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 5593,
+      "offset": 5703,
       "length": 14,
       "value": "\"exchangeIcon\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Utils\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 5645,
+      "offset": 5755,
       "length": 17,
       "value": "\"returnBlackIcon\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Utils\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 5700,
+      "offset": 5810,
       "length": 17,
       "value": "\"showSegmentIcon\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Utils\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 5752,
+      "offset": 5862,
       "length": 14,
       "value": "\"selectedIcon\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Utils\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 5798,
+      "offset": 5908,
       "length": 11,
       "value": "\"clockIcon\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Utils\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 5846,
+      "offset": 5956,
       "length": 16,
       "value": "\"departTextIcon\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Utils\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 5897,
+      "offset": 6007,
       "length": 14,
       "value": "\"editIconBlue\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Utils\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 5942,
+      "offset": 6052,
       "length": 10,
       "value": "\"fileIcon\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Utils\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 5984,
+      "offset": 6094,
       "length": 11,
       "value": "\"shareIcon\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Utils\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 6028,
+      "offset": 6138,
       "length": 12,
       "value": "\"numberIcon\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Utils\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 6076,
+      "offset": 6186,
       "length": 15,
       "value": "\"phoneIconBlue\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Utils\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 6123,
+      "offset": 6233,
       "length": 11,
       "value": "\"emailIcon\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Utils\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 6164,
+      "offset": 6274,
       "length": 9,
       "value": "\"addIcon\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Utils\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 6202,
+      "offset": 6312,
       "length": 8,
       "value": "\"toIcon\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Utils\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 6250,
+      "offset": 6360,
       "length": 10,
       "value": "\"starIcon\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Utils\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 6290,
+      "offset": 6400,
       "length": 9,
       "value": "\"sunIcon\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Utils\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 6333,
+      "offset": 6443,
       "length": 13,
       "value": "\"sunriseIcon\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Utils\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 6379,
+      "offset": 6489,
       "length": 12,
       "value": "\"sunsetIcon\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Utils\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 6442,
+      "offset": 6552,
       "length": 21,
       "value": "\"confirmationOTPIcon\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Utils\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 6507,
+      "offset": 6617,
       "length": 23,
       "value": "\"confirmationPhoneIcon\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Utils\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 6574,
+      "offset": 6684,
       "length": 14,
       "value": "\"scrollupIcon\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Utils\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 6918,
+      "offset": 7028,
       "length": 32,
       "value": "\"The provided url is not valid.\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Utils\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 6977,
+      "offset": 7087,
       "length": 13,
       "value": "\"Invalid URL\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Utils\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 7095,
+      "offset": 7205,
       "length": 36,
       "value": "\"You are not connected to internet.\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Utils\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 7158,
+      "offset": 7268,
       "length": 24,
       "value": "\"No Internet Connection\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Utils\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 7298,
+      "offset": 7408,
       "length": 36,
       "value": "\"Please update yor phone to ios 14.\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Utils\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 7361,
+      "offset": 7471,
       "length": 13,
       "value": "\"Invalid URL\""
     },
@@ -25126,56 +25154,70 @@
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Utils\/AppState.swift",
       "kind": "StringLiteral",
-      "offset": 1012,
+      "offset": 858,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Utils\/AppState.swift",
+      "kind": "StringLiteral",
+      "offset": 1005,
+      "length": 6,
+      "value": "\"test\""
+    },
+    {
+      "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Utils\/AppState.swift",
+      "kind": "StringLiteral",
+      "offset": 1172,
       "length": 10,
       "value": "\"customer\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Utils\/AppState.swift",
       "kind": "BooleanLiteral",
-      "offset": 1315,
+      "offset": 1475,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Utils\/AppState.swift",
       "kind": "BooleanLiteral",
-      "offset": 1363,
+      "offset": 1523,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Utils\/AppState.swift",
       "kind": "BooleanLiteral",
-      "offset": 1409,
+      "offset": 1569,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Utils\/AppState.swift",
       "kind": "BooleanLiteral",
-      "offset": 1460,
+      "offset": 1620,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Utils\/AppState.swift",
       "kind": "BooleanLiteral",
-      "offset": 1503,
+      "offset": 1663,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Utils\/AppState.swift",
       "kind": "BooleanLiteral",
-      "offset": 1549,
+      "offset": 1709,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Utils\/AppState.swift",
       "kind": "BooleanLiteral",
-      "offset": 1594,
+      "offset": 1754,
       "length": 5,
       "value": "false"
     },
