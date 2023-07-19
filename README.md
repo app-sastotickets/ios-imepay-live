@@ -13,7 +13,7 @@ Minimum SDK Requirement: IOS 14
 
 2. Go to File > Add Packages...
 
-3. In the field Enter package repository URL, enter "https://github.com/app-sastotickets/ios-globalime-live.git"
+3. In the field Enter package repository URL, enter "https://github.com/app-sastotickets/ios-imepay-live.git"
 
 4. Pick the latest version and Add Package.
 
@@ -30,7 +30,7 @@ import SastoTickets
 2. Run the following code preferably on button click which will display sastotickets user interface
 
 ```
-let vc = UIHostingController(rootView:SastoticketsView(clientId: "", clientSecret: "", userType: nil, walletBalance: nil ,phone: nil){response, error in
+let vc = UIHostingController(rootView:SastoticketsView(clientId: "", clientSecret: "", userType: nil, walletBalance: nil ,phone: nil, environment: "live"){response, error in
     if error != nil {
         //Handle error
     }
@@ -70,7 +70,7 @@ class ViewController: UIViewController {
     }
     
     @objc func didTapButton(){
-        let vc = UIHostingController(rootView:SastoticketsView(clientId: "", clientSecret: "", walletBalance: 0, phone: ""){response, error in
+        let vc = UIHostingController(rootView:SastoticketsView(clientId: "", clientSecret: "", walletBalance: 0, phone: "", environment: "live"){response, error in
             if error != nil {
                 //Handle error
             }
