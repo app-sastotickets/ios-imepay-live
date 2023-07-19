@@ -5274,777 +5274,805 @@
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Models\/FlightSearch\/FlightSearchOneWay.swift",
       "kind": "StringLiteral",
-      "offset": 2245,
+      "offset": 2286,
       "length": 5,
       "value": "\"ADT\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Models\/FlightSearch\/FlightSearchOneWay.swift",
       "kind": "StringLiteral",
-      "offset": 2245,
+      "offset": 2311,
+      "length": 5,
+      "value": "\"INF\""
+    },
+    {
+      "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Models\/FlightSearch\/FlightSearchOneWay.swift",
+      "kind": "StringLiteral",
+      "offset": 2336,
+      "length": 5,
+      "value": "\"CNN\""
+    },
+    {
+      "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Models\/FlightSearch\/FlightSearchOneWay.swift",
+      "kind": "StringLiteral",
+      "offset": 2286,
       "length": 5,
       "value": "\"ADT\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Models\/FlightSearch\/FlightSearchOneWay.swift",
       "kind": "StringLiteral",
-      "offset": 2890,
+      "offset": 2311,
+      "length": 5,
+      "value": "\"INF\""
+    },
+    {
+      "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Models\/FlightSearch\/FlightSearchOneWay.swift",
+      "kind": "StringLiteral",
+      "offset": 2336,
+      "length": 5,
+      "value": "\"CNN\""
+    },
+    {
+      "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Models\/FlightSearch\/FlightSearchOneWay.swift",
+      "kind": "StringLiteral",
+      "offset": 2981,
       "length": 11,
       "value": "\"FareBasis\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Models\/FlightSearch\/FlightSearchOneWay.swift",
       "kind": "StringLiteral",
-      "offset": 2929,
+      "offset": 3020,
       "length": 13,
       "value": "\"FareInfoRef\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Models\/FlightSearch\/FlightSearchOneWay.swift",
       "kind": "StringLiteral",
-      "offset": 2890,
+      "offset": 2981,
       "length": 11,
       "value": "\"FareBasis\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Models\/FlightSearch\/FlightSearchOneWay.swift",
       "kind": "StringLiteral",
-      "offset": 2929,
+      "offset": 3020,
       "length": 13,
       "value": "\"FareInfoRef\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Models\/FlightSearch\/FlightSearchOneWay.swift",
       "kind": "StringLiteral",
-      "offset": 3135,
+      "offset": 3226,
       "length": 5,
       "value": "\"Key\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Models\/FlightSearch\/FlightSearchOneWay.swift",
       "kind": "StringLiteral",
-      "offset": 3164,
+      "offset": 3255,
       "length": 9,
       "value": "\"BrandID\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Models\/FlightSearch\/FlightSearchOneWay.swift",
       "kind": "StringLiteral",
-      "offset": 3203,
+      "offset": 3294,
       "length": 15,
       "value": "\"UpSellBrandID\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Models\/FlightSearch\/FlightSearchOneWay.swift",
       "kind": "StringLiteral",
-      "offset": 3135,
+      "offset": 3226,
       "length": 5,
       "value": "\"Key\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Models\/FlightSearch\/FlightSearchOneWay.swift",
       "kind": "StringLiteral",
-      "offset": 3164,
+      "offset": 3255,
       "length": 9,
       "value": "\"BrandID\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Models\/FlightSearch\/FlightSearchOneWay.swift",
       "kind": "StringLiteral",
-      "offset": 3203,
+      "offset": 3294,
       "length": 15,
       "value": "\"UpSellBrandID\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Models\/FlightSearch\/FlightSearchOneWay.swift",
       "kind": "StringLiteral",
-      "offset": 3570,
+      "offset": 3661,
       "length": 13,
       "value": "\"FareInfoRef\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Models\/FlightSearch\/FlightSearchOneWay.swift",
       "kind": "StringLiteral",
-      "offset": 3612,
+      "offset": 3703,
       "length": 14,
       "value": "\"ProviderCode\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Models\/FlightSearch\/FlightSearchOneWay.swift",
       "kind": "StringLiteral",
-      "offset": 3570,
+      "offset": 3661,
       "length": 13,
       "value": "\"FareInfoRef\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Models\/FlightSearch\/FlightSearchOneWay.swift",
       "kind": "StringLiteral",
-      "offset": 3612,
+      "offset": 3703,
       "length": 14,
       "value": "\"ProviderCode\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Models\/FlightSearch\/FlightSearchOneWay.swift",
       "kind": "StringLiteral",
-      "offset": 3926,
+      "offset": 4017,
       "length": 5,
       "value": "\"Key\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Models\/FlightSearch\/FlightSearchOneWay.swift",
       "kind": "StringLiteral",
-      "offset": 3957,
+      "offset": 4048,
       "length": 11,
       "value": "\"FareBasis\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Models\/FlightSearch\/FlightSearchOneWay.swift",
       "kind": "StringLiteral",
-      "offset": 4002,
+      "offset": 4093,
       "length": 19,
       "value": "\"PassengerTypeCode\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Models\/FlightSearch\/FlightSearchOneWay.swift",
       "kind": "StringLiteral",
-      "offset": 4044,
+      "offset": 4135,
       "length": 8,
       "value": "\"Origin\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Models\/FlightSearch\/FlightSearchOneWay.swift",
       "kind": "StringLiteral",
-      "offset": 4080,
+      "offset": 4171,
       "length": 13,
       "value": "\"Destination\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Models\/FlightSearch\/FlightSearchOneWay.swift",
       "kind": "StringLiteral",
-      "offset": 4123,
+      "offset": 4214,
       "length": 15,
       "value": "\"EffectiveDate\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Models\/FlightSearch\/FlightSearchOneWay.swift",
       "kind": "StringLiteral",
-      "offset": 4170,
+      "offset": 4261,
       "length": 17,
       "value": "\"PromotionalFare\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Models\/FlightSearch\/FlightSearchOneWay.swift",
       "kind": "StringLiteral",
-      "offset": 4214,
+      "offset": 4305,
       "length": 12,
       "value": "\"FareFamily\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Models\/FlightSearch\/FlightSearchOneWay.swift",
       "kind": "StringLiteral",
-      "offset": 4255,
+      "offset": 4346,
       "length": 14,
       "value": "\"SupplierCode\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Models\/FlightSearch\/FlightSearchOneWay.swift",
       "kind": "StringLiteral",
-      "offset": 3926,
+      "offset": 4017,
       "length": 5,
       "value": "\"Key\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Models\/FlightSearch\/FlightSearchOneWay.swift",
       "kind": "StringLiteral",
-      "offset": 3957,
+      "offset": 4048,
       "length": 11,
       "value": "\"FareBasis\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Models\/FlightSearch\/FlightSearchOneWay.swift",
       "kind": "StringLiteral",
-      "offset": 4002,
+      "offset": 4093,
       "length": 19,
       "value": "\"PassengerTypeCode\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Models\/FlightSearch\/FlightSearchOneWay.swift",
       "kind": "StringLiteral",
-      "offset": 4044,
+      "offset": 4135,
       "length": 8,
       "value": "\"Origin\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Models\/FlightSearch\/FlightSearchOneWay.swift",
       "kind": "StringLiteral",
-      "offset": 4080,
+      "offset": 4171,
       "length": 13,
       "value": "\"Destination\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Models\/FlightSearch\/FlightSearchOneWay.swift",
       "kind": "StringLiteral",
-      "offset": 4123,
+      "offset": 4214,
       "length": 15,
       "value": "\"EffectiveDate\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Models\/FlightSearch\/FlightSearchOneWay.swift",
       "kind": "StringLiteral",
-      "offset": 4170,
+      "offset": 4261,
       "length": 17,
       "value": "\"PromotionalFare\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Models\/FlightSearch\/FlightSearchOneWay.swift",
       "kind": "StringLiteral",
-      "offset": 4214,
+      "offset": 4305,
       "length": 12,
       "value": "\"FareFamily\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Models\/FlightSearch\/FlightSearchOneWay.swift",
       "kind": "StringLiteral",
-      "offset": 4255,
+      "offset": 4346,
       "length": 14,
       "value": "\"SupplierCode\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Models\/FlightSearch\/FlightSearchOneWay.swift",
       "kind": "StringLiteral",
-      "offset": 5107,
+      "offset": 5198,
       "length": 20,
       "value": "\"departure_terminal\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Models\/FlightSearch\/FlightSearchOneWay.swift",
       "kind": "StringLiteral",
-      "offset": 5163,
+      "offset": 5254,
       "length": 22,
       "value": "\"destination_terminal\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Models\/FlightSearch\/FlightSearchOneWay.swift",
       "kind": "StringLiteral",
-      "offset": 5291,
+      "offset": 5382,
       "length": 20,
       "value": "\"total_flying_hours\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Models\/FlightSearch\/FlightSearchOneWay.swift",
       "kind": "StringLiteral",
-      "offset": 5383,
+      "offset": 5474,
       "length": 17,
       "value": "\"connection_time\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Models\/FlightSearch\/FlightSearchOneWay.swift",
       "kind": "StringLiteral",
-      "offset": 5431,
+      "offset": 5522,
       "length": 17,
       "value": "\"segment_details\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Models\/FlightSearch\/FlightSearchOneWay.swift",
       "kind": "StringLiteral",
-      "offset": 5107,
+      "offset": 5198,
       "length": 20,
       "value": "\"departure_terminal\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Models\/FlightSearch\/FlightSearchOneWay.swift",
       "kind": "StringLiteral",
-      "offset": 5163,
+      "offset": 5254,
       "length": 22,
       "value": "\"destination_terminal\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Models\/FlightSearch\/FlightSearchOneWay.swift",
       "kind": "StringLiteral",
-      "offset": 5291,
+      "offset": 5382,
       "length": 20,
       "value": "\"total_flying_hours\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Models\/FlightSearch\/FlightSearchOneWay.swift",
       "kind": "StringLiteral",
-      "offset": 5383,
+      "offset": 5474,
       "length": 17,
       "value": "\"connection_time\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Models\/FlightSearch\/FlightSearchOneWay.swift",
       "kind": "StringLiteral",
-      "offset": 5431,
+      "offset": 5522,
       "length": 17,
       "value": "\"segment_details\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Models\/FlightSearch\/FlightSearchOneWay.swift",
       "kind": "StringLiteral",
-      "offset": 5891,
+      "offset": 5982,
       "length": 13,
       "value": "\"segment_ref\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Models\/FlightSearch\/FlightSearchOneWay.swift",
       "kind": "StringLiteral",
-      "offset": 5891,
+      "offset": 5982,
       "length": 13,
       "value": "\"segment_ref\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Models\/FlightSearch\/FlightSearchOneWay.swift",
       "kind": "StringLiteral",
-      "offset": 6249,
+      "offset": 6340,
       "length": 14,
       "value": "\"ProviderCode\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Models\/FlightSearch\/FlightSearchOneWay.swift",
       "kind": "StringLiteral",
-      "offset": 6249,
+      "offset": 6340,
       "length": 14,
       "value": "\"ProviderCode\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Models\/FlightSearch\/FlightSearchOneWay.swift",
       "kind": "StringLiteral",
-      "offset": 6644,
+      "offset": 6735,
       "length": 18,
       "value": "\"OperatingCarrier\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Models\/FlightSearch\/FlightSearchOneWay.swift",
       "kind": "StringLiteral",
-      "offset": 6700,
+      "offset": 6791,
       "length": 23,
       "value": "\"OperatingFlightNumber\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Models\/FlightSearch\/FlightSearchOneWay.swift",
       "kind": "StringLiteral",
-      "offset": 6644,
+      "offset": 6735,
       "length": 18,
       "value": "\"OperatingCarrier\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Models\/FlightSearch\/FlightSearchOneWay.swift",
       "kind": "StringLiteral",
-      "offset": 6700,
+      "offset": 6791,
       "length": 23,
       "value": "\"OperatingFlightNumber\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Models\/FlightSearch\/FlightSearchOneWay.swift",
       "kind": "StringLiteral",
-      "offset": 7070,
+      "offset": 7161,
       "length": 5,
       "value": "\"Key\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Models\/FlightSearch\/FlightSearchOneWay.swift",
       "kind": "StringLiteral",
-      "offset": 7070,
+      "offset": 7161,
       "length": 5,
       "value": "\"Key\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Models\/FlightSearch\/FlightSearchOneWay.swift",
       "kind": "StringLiteral",
-      "offset": 7491,
+      "offset": 7582,
       "length": 5,
       "value": "\"Key\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Models\/FlightSearch\/FlightSearchOneWay.swift",
       "kind": "StringLiteral",
-      "offset": 7518,
+      "offset": 7609,
       "length": 7,
       "value": "\"Group\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Models\/FlightSearch\/FlightSearchOneWay.swift",
       "kind": "StringLiteral",
-      "offset": 7549,
+      "offset": 7640,
       "length": 9,
       "value": "\"Carrier\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Models\/FlightSearch\/FlightSearchOneWay.swift",
       "kind": "StringLiteral",
-      "offset": 7587,
+      "offset": 7678,
       "length": 14,
       "value": "\"FlightNumber\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Models\/FlightSearch\/FlightSearchOneWay.swift",
       "kind": "StringLiteral",
-      "offset": 7624,
+      "offset": 7715,
       "length": 8,
       "value": "\"Origin\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Models\/FlightSearch\/FlightSearchOneWay.swift",
       "kind": "StringLiteral",
-      "offset": 7660,
+      "offset": 7751,
       "length": 13,
       "value": "\"Destination\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Models\/FlightSearch\/FlightSearchOneWay.swift",
       "kind": "StringLiteral",
-      "offset": 7703,
+      "offset": 7794,
       "length": 15,
       "value": "\"DepartureTime\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Models\/FlightSearch\/FlightSearchOneWay.swift",
       "kind": "StringLiteral",
-      "offset": 7746,
+      "offset": 7837,
       "length": 13,
       "value": "\"ArrivalTime\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Models\/FlightSearch\/FlightSearchOneWay.swift",
       "kind": "StringLiteral",
-      "offset": 7786,
+      "offset": 7877,
       "length": 12,
       "value": "\"FlightTime\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Models\/FlightSearch\/FlightSearchOneWay.swift",
       "kind": "StringLiteral",
-      "offset": 7824,
+      "offset": 7915,
       "length": 11,
       "value": "\"Equipment\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Models\/FlightSearch\/FlightSearchOneWay.swift",
       "kind": "StringLiteral",
-      "offset": 7858,
+      "offset": 7949,
       "length": 8,
       "value": "\"Status\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Models\/FlightSearch\/FlightSearchOneWay.swift",
       "kind": "StringLiteral",
-      "offset": 7895,
+      "offset": 7986,
       "length": 14,
       "value": "\"SupplierCode\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Models\/FlightSearch\/FlightSearchOneWay.swift",
       "kind": "StringLiteral",
-      "offset": 7939,
+      "offset": 8030,
       "length": 15,
       "value": "\"ChangeOfPlane\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Models\/FlightSearch\/FlightSearchOneWay.swift",
       "kind": "StringLiteral",
-      "offset": 7996,
+      "offset": 8087,
       "length": 27,
       "value": "\"OptionalServicesIndicator\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Models\/FlightSearch\/FlightSearchOneWay.swift",
       "kind": "StringLiteral",
-      "offset": 8059,
+      "offset": 8150,
       "length": 21,
       "value": "\"APISRequirementsRef\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Models\/FlightSearch\/FlightSearchOneWay.swift",
       "kind": "StringLiteral",
-      "offset": 7491,
+      "offset": 7582,
       "length": 5,
       "value": "\"Key\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Models\/FlightSearch\/FlightSearchOneWay.swift",
       "kind": "StringLiteral",
-      "offset": 7518,
+      "offset": 7609,
       "length": 7,
       "value": "\"Group\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Models\/FlightSearch\/FlightSearchOneWay.swift",
       "kind": "StringLiteral",
-      "offset": 7549,
+      "offset": 7640,
       "length": 9,
       "value": "\"Carrier\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Models\/FlightSearch\/FlightSearchOneWay.swift",
       "kind": "StringLiteral",
-      "offset": 7587,
+      "offset": 7678,
       "length": 14,
       "value": "\"FlightNumber\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Models\/FlightSearch\/FlightSearchOneWay.swift",
       "kind": "StringLiteral",
-      "offset": 7624,
+      "offset": 7715,
       "length": 8,
       "value": "\"Origin\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Models\/FlightSearch\/FlightSearchOneWay.swift",
       "kind": "StringLiteral",
-      "offset": 7660,
+      "offset": 7751,
       "length": 13,
       "value": "\"Destination\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Models\/FlightSearch\/FlightSearchOneWay.swift",
       "kind": "StringLiteral",
-      "offset": 7703,
+      "offset": 7794,
       "length": 15,
       "value": "\"DepartureTime\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Models\/FlightSearch\/FlightSearchOneWay.swift",
       "kind": "StringLiteral",
-      "offset": 7746,
+      "offset": 7837,
       "length": 13,
       "value": "\"ArrivalTime\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Models\/FlightSearch\/FlightSearchOneWay.swift",
       "kind": "StringLiteral",
-      "offset": 7786,
+      "offset": 7877,
       "length": 12,
       "value": "\"FlightTime\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Models\/FlightSearch\/FlightSearchOneWay.swift",
       "kind": "StringLiteral",
-      "offset": 7824,
+      "offset": 7915,
       "length": 11,
       "value": "\"Equipment\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Models\/FlightSearch\/FlightSearchOneWay.swift",
       "kind": "StringLiteral",
-      "offset": 7858,
+      "offset": 7949,
       "length": 8,
       "value": "\"Status\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Models\/FlightSearch\/FlightSearchOneWay.swift",
       "kind": "StringLiteral",
-      "offset": 7895,
+      "offset": 7986,
       "length": 14,
       "value": "\"SupplierCode\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Models\/FlightSearch\/FlightSearchOneWay.swift",
       "kind": "StringLiteral",
-      "offset": 7939,
+      "offset": 8030,
       "length": 15,
       "value": "\"ChangeOfPlane\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Models\/FlightSearch\/FlightSearchOneWay.swift",
       "kind": "StringLiteral",
-      "offset": 7996,
+      "offset": 8087,
       "length": 27,
       "value": "\"OptionalServicesIndicator\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Models\/FlightSearch\/FlightSearchOneWay.swift",
       "kind": "StringLiteral",
-      "offset": 8059,
+      "offset": 8150,
       "length": 21,
       "value": "\"APISRequirementsRef\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Models\/FlightSearch\/FlightSearchOneWay.swift",
       "kind": "StringLiteral",
-      "offset": 8341,
+      "offset": 8432,
       "length": 13,
       "value": "\"BookingCode\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Models\/FlightSearch\/FlightSearchOneWay.swift",
       "kind": "StringLiteral",
-      "offset": 8383,
+      "offset": 8474,
       "length": 14,
       "value": "\"BookingCount\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Models\/FlightSearch\/FlightSearchOneWay.swift",
       "kind": "StringLiteral",
-      "offset": 8424,
+      "offset": 8515,
       "length": 12,
       "value": "\"CabinClass\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Models\/FlightSearch\/FlightSearchOneWay.swift",
       "kind": "StringLiteral",
-      "offset": 8464,
+      "offset": 8555,
       "length": 13,
       "value": "\"FareInfoRef\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Models\/FlightSearch\/FlightSearchOneWay.swift",
       "kind": "StringLiteral",
-      "offset": 8504,
+      "offset": 8595,
       "length": 12,
       "value": "\"SegmentRef\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Models\/FlightSearch\/FlightSearchOneWay.swift",
       "kind": "StringLiteral",
-      "offset": 8545,
+      "offset": 8636,
       "length": 14,
       "value": "\"HostTokenRef\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Models\/FlightSearch\/FlightSearchOneWay.swift",
       "kind": "StringLiteral",
-      "offset": 8341,
+      "offset": 8432,
       "length": 13,
       "value": "\"BookingCode\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Models\/FlightSearch\/FlightSearchOneWay.swift",
       "kind": "StringLiteral",
-      "offset": 8383,
+      "offset": 8474,
       "length": 14,
       "value": "\"BookingCount\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Models\/FlightSearch\/FlightSearchOneWay.swift",
       "kind": "StringLiteral",
-      "offset": 8424,
+      "offset": 8515,
       "length": 12,
       "value": "\"CabinClass\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Models\/FlightSearch\/FlightSearchOneWay.swift",
       "kind": "StringLiteral",
-      "offset": 8464,
+      "offset": 8555,
       "length": 13,
       "value": "\"FareInfoRef\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Models\/FlightSearch\/FlightSearchOneWay.swift",
       "kind": "StringLiteral",
-      "offset": 8504,
+      "offset": 8595,
       "length": 12,
       "value": "\"SegmentRef\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Models\/FlightSearch\/FlightSearchOneWay.swift",
       "kind": "StringLiteral",
-      "offset": 8545,
+      "offset": 8636,
       "length": 14,
       "value": "\"HostTokenRef\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Models\/FlightSearch\/FlightSearchOneWay.swift",
       "kind": "StringLiteral",
-      "offset": 8934,
+      "offset": 9025,
       "length": 12,
       "value": "\"search_key\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Models\/FlightSearch\/FlightSearchOneWay.swift",
       "kind": "StringLiteral",
-      "offset": 8971,
+      "offset": 9062,
       "length": 11,
       "value": "\"source_id\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Models\/FlightSearch\/FlightSearchOneWay.swift",
       "kind": "StringLiteral",
-      "offset": 9039,
+      "offset": 9130,
       "length": 20,
       "value": "\"validating_carrier\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Models\/FlightSearch\/FlightSearchOneWay.swift",
       "kind": "StringLiteral",
-      "offset": 9105,
+      "offset": 9196,
       "length": 15,
       "value": "\"booking_class\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Models\/FlightSearch\/FlightSearchOneWay.swift",
       "kind": "StringLiteral",
-      "offset": 9148,
+      "offset": 9239,
       "length": 13,
       "value": "\"FreeBaggage\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Models\/FlightSearch\/FlightSearchOneWay.swift",
       "kind": "StringLiteral",
-      "offset": 9186,
+      "offset": 9277,
       "length": 10,
       "value": "\"FlightNo\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Models\/FlightSearch\/FlightSearchOneWay.swift",
       "kind": "StringLiteral",
-      "offset": 8934,
+      "offset": 9025,
       "length": 12,
       "value": "\"search_key\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Models\/FlightSearch\/FlightSearchOneWay.swift",
       "kind": "StringLiteral",
-      "offset": 8971,
+      "offset": 9062,
       "length": 11,
       "value": "\"source_id\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Models\/FlightSearch\/FlightSearchOneWay.swift",
       "kind": "StringLiteral",
-      "offset": 9039,
+      "offset": 9130,
       "length": 20,
       "value": "\"validating_carrier\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Models\/FlightSearch\/FlightSearchOneWay.swift",
       "kind": "StringLiteral",
-      "offset": 9105,
+      "offset": 9196,
       "length": 15,
       "value": "\"booking_class\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Models\/FlightSearch\/FlightSearchOneWay.swift",
       "kind": "StringLiteral",
-      "offset": 9148,
+      "offset": 9239,
       "length": 13,
       "value": "\"FreeBaggage\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Models\/FlightSearch\/FlightSearchOneWay.swift",
       "kind": "StringLiteral",
-      "offset": 9186,
+      "offset": 9277,
       "length": 10,
       "value": "\"FlightNo\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Models\/FlightSearch\/FlightSearchOneWay.swift",
       "kind": "StringLiteral",
-      "offset": 9777,
+      "offset": 9868,
       "length": 31,
       "value": "\"Wrong type for ConnectionTime\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Models\/FlightSearch\/FlightSearchOneWay.swift",
       "kind": "StringLiteral",
-      "offset": 10632,
+      "offset": 10723,
       "length": 28,
       "value": "\"Wrong type for FreeBaggage\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Models\/FlightSearch\/FlightSearchOneWay.swift",
       "kind": "StringLiteral",
-      "offset": 11478,
+      "offset": 11569,
       "length": 23,
       "value": "\"Wrong type for Weight\""
     },
@@ -18987,168 +19015,252 @@
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Models\/FlightSearch\/FlightSearchRoundTrip.swift",
       "kind": "StringLiteral",
-      "offset": 460,
+      "offset": 469,
       "length": 16,
       "value": "\"search_summary\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Models\/FlightSearch\/FlightSearchRoundTrip.swift",
       "kind": "StringLiteral",
-      "offset": 508,
+      "offset": 517,
       "length": 18,
       "value": "\"fare_information\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Models\/FlightSearch\/FlightSearchRoundTrip.swift",
       "kind": "StringLiteral",
-      "offset": 565,
+      "offset": 574,
       "length": 26,
       "value": "\"flight_departure_summary\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Models\/FlightSearch\/FlightSearchRoundTrip.swift",
       "kind": "StringLiteral",
-      "offset": 627,
+      "offset": 636,
       "length": 23,
       "value": "\"flight_return_summary\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Models\/FlightSearch\/FlightSearchRoundTrip.swift",
       "kind": "StringLiteral",
-      "offset": 681,
+      "offset": 690,
       "length": 17,
       "value": "\"baggage_details\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Models\/FlightSearch\/FlightSearchRoundTrip.swift",
       "kind": "StringLiteral",
-      "offset": 460,
+      "offset": 469,
       "length": 16,
       "value": "\"search_summary\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Models\/FlightSearch\/FlightSearchRoundTrip.swift",
       "kind": "StringLiteral",
-      "offset": 508,
+      "offset": 517,
       "length": 18,
       "value": "\"fare_information\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Models\/FlightSearch\/FlightSearchRoundTrip.swift",
       "kind": "StringLiteral",
-      "offset": 565,
+      "offset": 574,
       "length": 26,
       "value": "\"flight_departure_summary\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Models\/FlightSearch\/FlightSearchRoundTrip.swift",
       "kind": "StringLiteral",
-      "offset": 627,
+      "offset": 636,
       "length": 23,
       "value": "\"flight_return_summary\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Models\/FlightSearch\/FlightSearchRoundTrip.swift",
       "kind": "StringLiteral",
-      "offset": 681,
+      "offset": 690,
       "length": 17,
       "value": "\"baggage_details\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Models\/FlightSearch\/FlightSearchRoundTrip.swift",
       "kind": "StringLiteral",
-      "offset": 909,
+      "offset": 918,
       "length": 8,
       "value": "\"return\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Models\/FlightSearch\/FlightSearchRoundTrip.swift",
       "kind": "StringLiteral",
-      "offset": 909,
+      "offset": 918,
       "length": 8,
       "value": "\"return\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Models\/FlightSearch\/FlightSearchRoundTrip.swift",
       "kind": "StringLiteral",
-      "offset": 1312,
-      "length": 12,
-      "value": "\"search_key\""
+      "offset": 1599,
+      "length": 10,
+      "value": "\"FlightId\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Models\/FlightSearch\/FlightSearchRoundTrip.swift",
       "kind": "StringLiteral",
-      "offset": 1349,
-      "length": 11,
-      "value": "\"source_id\""
-    },
-    {
-      "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Models\/FlightSearch\/FlightSearchRoundTrip.swift",
-      "kind": "StringLiteral",
-      "offset": 1416,
-      "length": 20,
-      "value": "\"validating_carrier\""
-    },
-    {
-      "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Models\/FlightSearch\/FlightSearchRoundTrip.swift",
-      "kind": "StringLiteral",
-      "offset": 1464,
-      "length": 14,
-      "value": "\"rbd_outbound\""
-    },
-    {
-      "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Models\/FlightSearch\/FlightSearchRoundTrip.swift",
-      "kind": "StringLiteral",
-      "offset": 1504,
-      "length": 12,
-      "value": "\"rbd_return\""
-    },
-    {
-      "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Models\/FlightSearch\/FlightSearchRoundTrip.swift",
-      "kind": "StringLiteral",
-      "offset": 1545,
+      "offset": 1638,
       "length": 15,
       "value": "\"booking_class\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Models\/FlightSearch\/FlightSearchRoundTrip.swift",
       "kind": "StringLiteral",
-      "offset": 1312,
+      "offset": 1871,
+      "length": 20,
+      "value": "\"total_flying_hours\""
+    },
+    {
+      "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Models\/FlightSearch\/FlightSearchRoundTrip.swift",
+      "kind": "StringLiteral",
+      "offset": 1599,
+      "length": 10,
+      "value": "\"FlightId\""
+    },
+    {
+      "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Models\/FlightSearch\/FlightSearchRoundTrip.swift",
+      "kind": "StringLiteral",
+      "offset": 1638,
+      "length": 15,
+      "value": "\"booking_class\""
+    },
+    {
+      "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Models\/FlightSearch\/FlightSearchRoundTrip.swift",
+      "kind": "StringLiteral",
+      "offset": 1871,
+      "length": 20,
+      "value": "\"total_flying_hours\""
+    },
+    {
+      "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Models\/FlightSearch\/FlightSearchRoundTrip.swift",
+      "kind": "StringLiteral",
+      "offset": 2128,
+      "length": 5,
+      "value": "\"ADT\""
+    },
+    {
+      "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Models\/FlightSearch\/FlightSearchRoundTrip.swift",
+      "kind": "StringLiteral",
+      "offset": 2153,
+      "length": 5,
+      "value": "\"INF\""
+    },
+    {
+      "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Models\/FlightSearch\/FlightSearchRoundTrip.swift",
+      "kind": "StringLiteral",
+      "offset": 2178,
+      "length": 5,
+      "value": "\"CNN\""
+    },
+    {
+      "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Models\/FlightSearch\/FlightSearchRoundTrip.swift",
+      "kind": "StringLiteral",
+      "offset": 2128,
+      "length": 5,
+      "value": "\"ADT\""
+    },
+    {
+      "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Models\/FlightSearch\/FlightSearchRoundTrip.swift",
+      "kind": "StringLiteral",
+      "offset": 2153,
+      "length": 5,
+      "value": "\"INF\""
+    },
+    {
+      "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Models\/FlightSearch\/FlightSearchRoundTrip.swift",
+      "kind": "StringLiteral",
+      "offset": 2178,
+      "length": 5,
+      "value": "\"CNN\""
+    },
+    {
+      "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Models\/FlightSearch\/FlightSearchRoundTrip.swift",
+      "kind": "StringLiteral",
+      "offset": 2476,
       "length": 12,
       "value": "\"search_key\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Models\/FlightSearch\/FlightSearchRoundTrip.swift",
       "kind": "StringLiteral",
-      "offset": 1349,
+      "offset": 2513,
       "length": 11,
       "value": "\"source_id\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Models\/FlightSearch\/FlightSearchRoundTrip.swift",
       "kind": "StringLiteral",
-      "offset": 1416,
+      "offset": 2580,
       "length": 20,
       "value": "\"validating_carrier\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Models\/FlightSearch\/FlightSearchRoundTrip.swift",
       "kind": "StringLiteral",
-      "offset": 1464,
+      "offset": 2628,
       "length": 14,
       "value": "\"rbd_outbound\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Models\/FlightSearch\/FlightSearchRoundTrip.swift",
       "kind": "StringLiteral",
-      "offset": 1504,
+      "offset": 2668,
       "length": 12,
       "value": "\"rbd_return\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Models\/FlightSearch\/FlightSearchRoundTrip.swift",
       "kind": "StringLiteral",
-      "offset": 1545,
+      "offset": 2709,
+      "length": 15,
+      "value": "\"booking_class\""
+    },
+    {
+      "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Models\/FlightSearch\/FlightSearchRoundTrip.swift",
+      "kind": "StringLiteral",
+      "offset": 2476,
+      "length": 12,
+      "value": "\"search_key\""
+    },
+    {
+      "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Models\/FlightSearch\/FlightSearchRoundTrip.swift",
+      "kind": "StringLiteral",
+      "offset": 2513,
+      "length": 11,
+      "value": "\"source_id\""
+    },
+    {
+      "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Models\/FlightSearch\/FlightSearchRoundTrip.swift",
+      "kind": "StringLiteral",
+      "offset": 2580,
+      "length": 20,
+      "value": "\"validating_carrier\""
+    },
+    {
+      "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Models\/FlightSearch\/FlightSearchRoundTrip.swift",
+      "kind": "StringLiteral",
+      "offset": 2628,
+      "length": 14,
+      "value": "\"rbd_outbound\""
+    },
+    {
+      "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Models\/FlightSearch\/FlightSearchRoundTrip.swift",
+      "kind": "StringLiteral",
+      "offset": 2668,
+      "length": 12,
+      "value": "\"rbd_return\""
+    },
+    {
+      "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Models\/FlightSearch\/FlightSearchRoundTrip.swift",
+      "kind": "StringLiteral",
+      "offset": 2709,
       "length": 15,
       "value": "\"booking_class\""
     },
@@ -23441,7 +23553,7 @@
       "kind": "StringLiteral",
       "offset": 182,
       "length": 8,
-      "value": "\"0.0.35\""
+      "value": "\"0.0.36\""
     },
     {
       "filePath": "\/Users\/sujan\/Desktop\/sasto-tickets-sdk-ios\/SastoTickets\/Utils\/Constants.swift",
